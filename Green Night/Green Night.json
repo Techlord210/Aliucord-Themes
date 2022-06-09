@@ -2,7 +2,9 @@
     "manifest": {
         "version": "1.0",
         "author": "Techlord#8470",
-        "name": "Green Night"
+        "name": "Green Night",
+        "updater": "https:\/\/raw.githubusercontent.com\/Techlord210\/Aliucord-Themes\/main\/Green%20Night\/Green%20Night.json",
+        "license": "MIT"
     },
     "background": {},
     "fonts": {},
