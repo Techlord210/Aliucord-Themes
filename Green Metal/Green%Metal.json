@@ -3,9 +3,14 @@
         "version": "1.0",
         "author": "Techlord#8470",
         "name": "Green Metal",
-        "license": "MIT"
+        "license": "MIT",
+        "updater": "https:\/\/raw.githubusercontent.com\/Techlord210\/Aliucord-Themes\/main\/Green%20Metal\/Green%25Metal.json"
     },
-    "background": {},
+    "background": {
+        "url": "https:\/\/raw.githubusercontent.com\/Techlord210\/Aliucord-Themes\/main\/Green%20Metal\/bg0.jpg",
+        "blur_radius": 25,
+        "overlay_alpha": 180
+    },
     "fonts": {},
     "simple_colors": {
         "background": -16777216,
